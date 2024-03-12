@@ -1,5 +1,7 @@
 # Contributors
 
+
+
 - [Siddharth Garg](https://github.com/Siddu24294)
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
 - [Abhishek Agrawal](https://github.com/Abhi
@@ -8,6 +10,9 @@
 - [Shubham Kumar](https://github.com/shubh1777) 📲[LinkedIn](https://www.linkedin.com/in/shubham-kumar1777/)
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
 JiyinShao
+
+I am learnig about opensource. [Raunak Raj]
+
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - [Pradip Manna](https://github.com/Loosify00)
 - [Rahul Patanwadia](https://github.com/Rahul-Patanwadia)
